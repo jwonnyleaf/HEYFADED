@@ -1,0 +1,6 @@
+tweepy
+schedule
+pymongo
+dnspython
+python-dotenv
+black
